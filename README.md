@@ -1,10 +1,10 @@
-# ros_gazebo_base_mapper
+# gmapping for base_robot
 Package containing launch files for gmapping for base_robot. This launch file will bringup,
  - base_robot in gazebo inside the house model
  - rviz
  - teleop-twist-keyboard 
  
-You can control the robot using the keyboard (u,i,o,j,k.l,m,',','.') keys, but you need press the keys on the terminal.
+You can control the robot using the keyboard (u,i,o,j,k.l,m,',','.') keys, but you need to focus on the terminal.
 
 Save the map using, in a different terminal.
 ```
